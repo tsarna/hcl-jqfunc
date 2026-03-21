@@ -20,8 +20,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
 github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
-github.com/tsarna/go2cty2go v0.1.0 h1:HzkvWmCLOGnclJGX9SMEAd4ugQPbOEsQXYs0lBfEpZk=
-github.com/tsarna/go2cty2go v0.1.0/go.mod h1:q/355nO0BfutFSi4OYNSdw86Fi9OvDSteYrw//Drm7E=
+github.com/tsarna/go2cty2go v0.1.2 h1:mSEqG5eHUkqaABA1XRgLoLpyEgN99XBZojuZqbFxFko=
+github.com/tsarna/go2cty2go v0.1.2/go.mod h1:IRpRWApZVoPjsCKzI2Yptu5Y1jySTSykG2wMETwoWXc=
 github.com/zclconf/go-cty v1.18.0 h1:pJ8+HNI4gFoyRNqVE37wWbJWVw43BZczFo7KUoRczaA=
 github.com/zclconf/go-cty v1.18.0/go.mod h1:qpnV6EDNgC1sns/AleL1fvatHw72j+S+nS+MJ+T2CSg=
 github.com/zclconf/go-cty-debug v0.0.0-20240509010212-0d6042c53940 h1:4r45xpDWB6ZMSMNJFMOjqrGHynW3DIBuR2H9j0ug+Mo=

@@ -6,7 +6,7 @@ require (
 	github.com/hashicorp/hcl/v2 v2.24.0
 	github.com/itchyny/gojq v0.12.18
 	github.com/stretchr/testify v1.11.1
-	github.com/tsarna/go2cty2go v0.1.0
+	github.com/tsarna/go2cty2go v0.1.2
 	github.com/zclconf/go-cty v1.18.0
 )
 
