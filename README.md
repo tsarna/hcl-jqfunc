@@ -6,7 +6,7 @@ A HashiCorp Configuration Language (HCL) extension that enables user-defined fun
 
 - **JQ Integration**: Write HCL functions using JQ query syntax
 - **Flexible Input Types**: Accept both JSON strings and native cty values
-- **Smart String Handling**: String results from JSON input are returned directly (not JSON-encoded). You can always use `tojson` in your query if you really want a string containing the qujotes json string.
+- **Smart String Handling**: String results from JSON input are returned directly (not JSON-encoded). You can always use `tojson` in your query if you really want a string containing the quotes.
 - **Multi-Result Support**: Handle JQ queries that return multiple values
 - **Parameter Support**: Pass HCL function arguments as JQ variables
 - **Enhanced Error Reporting**: Detailed error messages with source location information
