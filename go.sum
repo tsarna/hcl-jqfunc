@@ -34,8 +34,8 @@ github.com/rogpeppe/go-internal v1.14.1 h1:UQB4HGPB6osV0SQTLymcB4TgvyWu6ZyliaW0t
 github.com/rogpeppe/go-internal v1.14.1/go.mod h1:MaRKkUm5W0goXpeCfT7UZI6fk/L7L7so1lCWt35ZSgc=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
 github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
-github.com/tsarna/go2cty2go v0.1.3 h1:YJ07Xl6agKrhtP/mCOkWL8t1MV9ry8kqNkR/w+m0Kns=
-github.com/tsarna/go2cty2go v0.1.3/go.mod h1:4691K1NVryGKWribbwTppXaVbUIDLvJVBwA/EbMN6r8=
+github.com/tsarna/go2cty2go v0.3.0 h1:OhwtKQS8iFRWYGo2lAaNyn6TMiB4OsQXDDJpoBFsxjc=
+github.com/tsarna/go2cty2go v0.3.0/go.mod h1:RYrXdiw6Ukuz8z7O+ewhMRXexYpcpJmjrUVJZJ9DtKU=
 github.com/zclconf/go-cty v1.19.0 h1:IV8WdqYZc2c5rLX9bEoLNXKojBAp0MZPBHMIrCoa/s4=
 github.com/zclconf/go-cty v1.19.0/go.mod h1:12W89jGn3JCOIQi7infWr9m80rOkb5RNYJqXMZcN4c8=
 github.com/zclconf/go-cty-debug v0.0.0-20240509010212-0d6042c53940 h1:4r45xpDWB6ZMSMNJFMOjqrGHynW3DIBuR2H9j0ug+Mo=
