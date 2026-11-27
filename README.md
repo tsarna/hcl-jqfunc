@@ -256,7 +256,7 @@ locals {
 - `github.com/hashicorp/hcl/v2` - HCL parsing and evaluation
 - `github.com/itchyny/gojq` - Pure Go JQ implementation  
 - `github.com/zclconf/go-cty` - HCL type system
-- `github.com/tsarna/go2cty2go` - Enhanced cty value conversion
+- `github.com/tsarna/ctyx/go2cty2go` - Enhanced cty value conversion
 
 ## Acknowledgments
 
