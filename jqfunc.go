@@ -8,7 +8,7 @@ import (
 	"github.com/hashicorp/hcl/v2"
 	"github.com/hashicorp/hcl/v2/hclsyntax"
 	"github.com/itchyny/gojq"
-	"github.com/tsarna/go2cty2go"
+	"github.com/tsarna/ctyx/go2cty2go"
 	"github.com/zclconf/go-cty/cty"
 	"github.com/zclconf/go-cty/cty/function"
 )
